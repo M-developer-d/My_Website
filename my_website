@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mohan Dukare | Portfolio</title>
+</head>
+<body>
+
+  <h1>Mohan Dukare</h1>
+  <h3>Personal Portfolio Website</h3>
+
+  <p>
+    This website is created using HTML and hosted on an open-source platform
+    called GitHub Pages. It is freely accessible on the internet.
+  </p>
+
+  <h2>About Me</h2>
+  <p>
+    I am a student who is learning programming, web development, and
+    emerging technologies. I am interested in building innovative projects.
+  </p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>C Programming</li>
+    <li>HTML & Basic Web Design</li>
+    <li>Problem Solving</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: mohanxyz@email.com</p>
+
+  <footer>
+    <p>© 2026 Mohan Dukare | Hosted using GitHub Pages</p>
+  </footer>
+
+</body>
+</html>
